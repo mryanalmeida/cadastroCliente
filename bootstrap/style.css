@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body {
+    background: #CDCDCD;
+}
+
+.card {
+    border: 2px solid;
+}
