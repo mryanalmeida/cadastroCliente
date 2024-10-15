@@ -1,6 +1,6 @@
 /**
  * Cadastro de Usuário
- * @author Andrew Dantas
+ * @author Marcos Almeida
  * @link
  * @version 1.0
  */
